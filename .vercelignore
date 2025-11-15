@@ -1,0 +1,33 @@
+# Flutter build artifacts
+.dart_tool/
+build/windows/
+build/linux/
+build/macos/
+build/ios/
+build/android/
+build/flutter_assets/
+build/native_assets/
+
+# Platform folders
+android/
+ios/
+linux/
+macos/
+windows/
+
+# IDE files
+.idea/
+*.iml
+
+# Test files
+test/
+
+# Logs
+*.log
+
+# Dependencies
+.flutter-plugins-dependencies
+.metadata
+
+# Only keep the web build
+!build/web/
